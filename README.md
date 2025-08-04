@@ -160,7 +160,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or run into issues, please:
-- Check the [Issues](https://github.com/yourusername/personal-expense-tracker/issues) page
+- Check the [Issues](https://github.com/domnix-sl/personal-expense-tracker/issues) page
 - Create a new issue if your problem isn't already reported
 - Include detailed information about your environment and the issue
 
