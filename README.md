@@ -34,23 +34,13 @@ personal-expense-tracker/
 
 ---
 
-# Repository Information
-
-**Repository Name:** `personal-expense-tracker`
-
-**Description:** 💰 A simple Java console application for tracking personal expenses with category analysis and monthly reports. Built with core Java concepts for learning and practical use.
-
-**Topics/Tags:** `java` `console-application` `expense-tracker` `personal-finance` `beginner-friendly` `oop` `java8-streams` `budget-management`
-
----
-
-# README.md
-
 # Personal Expense Tracker 💰
 
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://www.oracle.com/java/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
+
+![Screenshot](screenshots/Screenshot01.png)
 
 A simple, intuitive Java console application for tracking personal expenses. Perfect for students learning Java or anyone who wants a lightweight expense tracking solution.
 
