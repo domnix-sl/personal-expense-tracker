@@ -1,39 +1,3 @@
-# Repository Structure
-
-```
-personal-expense-tracker/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── CONTRIBUTING.md
-├── CHANGELOG.md
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── expensetracker/
-│   │               ├── Main.java
-│   │               ├── ExpenseTracker.java
-│   │               └── model/
-│   │                   └── Expense.java
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── expensetracker/
-│                   └── ExpenseTrackerTest.java
-├── docs/
-│   ├── screenshots/
-│   │   └── demo.png
-│   └── API.md
-├── examples/
-│   └── sample-expenses.txt
-└── scripts/
-    ├── build.sh
-    └── run.sh
-```
-
----
-
 # Personal Expense Tracker 💰
 
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://www.oracle.com/java/)
